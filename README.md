@@ -31,7 +31,7 @@ This tool processes images entirely within your browser using the HTML5 Canvas A
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AriachAmine/browserbasedredactor.git
    cd browserbasedredactor
    ```
 
